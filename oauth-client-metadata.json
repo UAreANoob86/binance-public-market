@@ -1,0 +1,14 @@
+{
+  "client_id": "https://uareanoob86.github.io/binance-public-market/oauth-client-metadata.json",
+  "client_name": "Binance V8 Public Market Preparation",
+  "redirect_uris": [
+    "http://127.0.0.1:49371/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
